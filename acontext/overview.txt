@@ -1,0 +1,20 @@
+Application: Sinh viên, giảng viên
+Web: giảng viên, các phòng ban
+
+các phòng ban bao gồm: 
+
+Features for: 
+Sinh viên:
++ Điểm danh (quét qr)
++ thời khóa biểu
++ đăng kí tín chỉ
++ Nộp tiền
++ 
+
+Giảng viên:
++ Điểm danh (tạo qr) - chống điểm danh hộ
++ thời khóa biểu
++ 
+
+
+Các phòng ban: 
